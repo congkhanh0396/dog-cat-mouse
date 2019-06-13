@@ -1,0 +1,14 @@
+{
+  "name": "1.first-commit",
+  "version": "1.0.0",
+  "description": "The project is just a demo how to use git.\r // git diff để xem nội dung những file mà có modifile",
+  "main": "Cat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
